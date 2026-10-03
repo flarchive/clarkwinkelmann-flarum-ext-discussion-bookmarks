@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-discussion-bookmarks.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-discussion-bookmarks) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-discussion-bookmarks).
 
-**0** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-bookmarks/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^1.3.1`
+**2** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-bookmarks/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^1.3.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2022-08-17 | `^1.3.1` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-bookmarks/tree/archive/v2.0.0) |
+| `2.0.1` | 2023-12-16 | `^1.3.1` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-bookmarks/tree/archive/v2.0.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-discussion-bookmarks.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-discussion-bookmarks.json)
 
